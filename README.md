@@ -32,13 +32,13 @@ Neko Chat is a terminal-based interactive chatbot designed to engage in natural 
 
 **Installation:**
    ```bash
-   git clone [https://github.com/](https://github.com/)<your-username>/Neko-Chat.git
-   cd Neko-Chat
-   npm install
+   git clone https://github.com/allicetheneko /neko-chat.git
+   cd neko-chat
+   npm install / yarn install
    ```
 
 **Configuration:**
-   - **Replace API Key:** Open `index.ts` and replace `PLACE_HOLDER` with your own Replicate API key. 🔑
+   - **Replace API Key:** Open `neko.ts` and replace `PLACE_HOLDER` with your own Replicate API key. 🔑
    - **Customize Personality:**  In `neko.ts`, modify the `system_prompt` within the `generationSettings` object to change how Neko interacts. Experiment with different prompts!
 
 **Run the Chatbot:**
