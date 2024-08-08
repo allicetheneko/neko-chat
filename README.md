@@ -76,4 +76,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 - This project is powered by the amazing Llama 3.1 model from Meta.
 - Special thanks to the Replicate team for providing a fantastic API to access this powerful model.
-```
