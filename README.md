@@ -32,7 +32,7 @@ Neko Chat is a terminal-based interactive chatbot designed to engage in natural 
 
 **Installation:**
    ```bash
-   git clone https://github.com/allicetheneko /neko-chat.git
+   git clone https://github.com/allicetheneko/neko-chat.git
    cd neko-chat
    npm install / yarn install
    ```
