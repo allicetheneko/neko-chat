@@ -43,7 +43,7 @@ Neko Chat is a terminal-based interactive chatbot designed to engage in natural 
 
 **Run the Chatbot:**
    ```bash
-   npm start
+   yarn start / node .
    ```
 
 ## 💬 Usage
